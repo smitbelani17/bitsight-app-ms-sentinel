@@ -233,7 +233,7 @@
 						"Observation_Statistics_Table_Name": "[parameters('Observation_Statistics_Table_Name')]",
                         "LogLevel": "[parameters('LogLevel')]",
                         "Schedule": "[parameters('BitSightSchedule')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://aka.ms/sentinel-BitSight-functionapp"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/smitbelani17/bitsight-app-ms-sentinel/blob/main/BitsightDataConnector.zip?raw=true"
                     }
                 }
             ]
